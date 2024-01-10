@@ -6,5 +6,5 @@ The additional files are zipped versions of subsequent animations:
 
 ESP32_LED_Control_new_years.zip - version started Jan 5
 
-valentines_1.zip - version to load during Member Meeting Jan 9
+valentines_1.zip - version to loaded during Member Meeting Jan 9
 
